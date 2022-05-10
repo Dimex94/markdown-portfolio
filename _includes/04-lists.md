@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Jolof Rice
+* Beans
+  * Chicken Adobo
+  * Brocoli
